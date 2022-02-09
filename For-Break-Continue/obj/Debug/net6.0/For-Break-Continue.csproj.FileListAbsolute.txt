@@ -1,0 +1,15 @@
+C:\Users\Mehmet\Desktop\Projects\C#\For-Break-Continue\bin\Debug\net6.0\For-Break-Continue.exe
+C:\Users\Mehmet\Desktop\Projects\C#\For-Break-Continue\bin\Debug\net6.0\For-Break-Continue.deps.json
+C:\Users\Mehmet\Desktop\Projects\C#\For-Break-Continue\bin\Debug\net6.0\For-Break-Continue.runtimeconfig.json
+C:\Users\Mehmet\Desktop\Projects\C#\For-Break-Continue\bin\Debug\net6.0\For-Break-Continue.dll
+C:\Users\Mehmet\Desktop\Projects\C#\For-Break-Continue\bin\Debug\net6.0\ref\For-Break-Continue.dll
+C:\Users\Mehmet\Desktop\Projects\C#\For-Break-Continue\bin\Debug\net6.0\For-Break-Continue.pdb
+C:\Users\Mehmet\Desktop\Projects\C#\For-Break-Continue\obj\Debug\net6.0\For-Break-Continue.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\Projects\C#\For-Break-Continue\obj\Debug\net6.0\For-Break-Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\Projects\C#\For-Break-Continue\obj\Debug\net6.0\For-Break-Continue.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\Projects\C#\For-Break-Continue\obj\Debug\net6.0\For-Break-Continue.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\Projects\C#\For-Break-Continue\obj\Debug\net6.0\For-Break-Continue.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Projects\C#\For-Break-Continue\obj\Debug\net6.0\For-Break-Continue.dll
+C:\Users\Mehmet\Desktop\Projects\C#\For-Break-Continue\obj\Debug\net6.0\ref\For-Break-Continue.dll
+C:\Users\Mehmet\Desktop\Projects\C#\For-Break-Continue\obj\Debug\net6.0\For-Break-Continue.pdb
+C:\Users\Mehmet\Desktop\Projects\C#\For-Break-Continue\obj\Debug\net6.0\For-Break-Continue.genruntimeconfig.cache
