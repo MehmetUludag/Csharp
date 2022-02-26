@@ -1,0 +1,15 @@
+C:\Users\Mehmet\Desktop\Projects\C#\RekursifVeExtensionMethods\bin\Debug\net6.0\RekursifVeExtensionMethods.exe
+C:\Users\Mehmet\Desktop\Projects\C#\RekursifVeExtensionMethods\bin\Debug\net6.0\RekursifVeExtensionMethods.deps.json
+C:\Users\Mehmet\Desktop\Projects\C#\RekursifVeExtensionMethods\bin\Debug\net6.0\RekursifVeExtensionMethods.runtimeconfig.json
+C:\Users\Mehmet\Desktop\Projects\C#\RekursifVeExtensionMethods\bin\Debug\net6.0\RekursifVeExtensionMethods.dll
+C:\Users\Mehmet\Desktop\Projects\C#\RekursifVeExtensionMethods\bin\Debug\net6.0\ref\RekursifVeExtensionMethods.dll
+C:\Users\Mehmet\Desktop\Projects\C#\RekursifVeExtensionMethods\bin\Debug\net6.0\RekursifVeExtensionMethods.pdb
+C:\Users\Mehmet\Desktop\Projects\C#\RekursifVeExtensionMethods\obj\Debug\net6.0\RekursifVeExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\Projects\C#\RekursifVeExtensionMethods\obj\Debug\net6.0\RekursifVeExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\Projects\C#\RekursifVeExtensionMethods\obj\Debug\net6.0\RekursifVeExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\Projects\C#\RekursifVeExtensionMethods\obj\Debug\net6.0\RekursifVeExtensionMethods.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\Projects\C#\RekursifVeExtensionMethods\obj\Debug\net6.0\RekursifVeExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Projects\C#\RekursifVeExtensionMethods\obj\Debug\net6.0\RekursifVeExtensionMethods.dll
+C:\Users\Mehmet\Desktop\Projects\C#\RekursifVeExtensionMethods\obj\Debug\net6.0\ref\RekursifVeExtensionMethods.dll
+C:\Users\Mehmet\Desktop\Projects\C#\RekursifVeExtensionMethods\obj\Debug\net6.0\RekursifVeExtensionMethods.pdb
+C:\Users\Mehmet\Desktop\Projects\C#\RekursifVeExtensionMethods\obj\Debug\net6.0\RekursifVeExtensionMethods.genruntimeconfig.cache
