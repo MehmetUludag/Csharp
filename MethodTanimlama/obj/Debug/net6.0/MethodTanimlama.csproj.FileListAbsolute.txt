@@ -1,0 +1,15 @@
+C:\Users\Mehmet\Desktop\Projects\C#\MethodTanimlama\bin\Debug\net6.0\MethodTanimlama.exe
+C:\Users\Mehmet\Desktop\Projects\C#\MethodTanimlama\bin\Debug\net6.0\MethodTanimlama.deps.json
+C:\Users\Mehmet\Desktop\Projects\C#\MethodTanimlama\bin\Debug\net6.0\MethodTanimlama.runtimeconfig.json
+C:\Users\Mehmet\Desktop\Projects\C#\MethodTanimlama\bin\Debug\net6.0\MethodTanimlama.dll
+C:\Users\Mehmet\Desktop\Projects\C#\MethodTanimlama\bin\Debug\net6.0\ref\MethodTanimlama.dll
+C:\Users\Mehmet\Desktop\Projects\C#\MethodTanimlama\bin\Debug\net6.0\MethodTanimlama.pdb
+C:\Users\Mehmet\Desktop\Projects\C#\MethodTanimlama\obj\Debug\net6.0\MethodTanimlama.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\Projects\C#\MethodTanimlama\obj\Debug\net6.0\MethodTanimlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\Projects\C#\MethodTanimlama\obj\Debug\net6.0\MethodTanimlama.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\Projects\C#\MethodTanimlama\obj\Debug\net6.0\MethodTanimlama.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\Projects\C#\MethodTanimlama\obj\Debug\net6.0\MethodTanimlama.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Projects\C#\MethodTanimlama\obj\Debug\net6.0\MethodTanimlama.dll
+C:\Users\Mehmet\Desktop\Projects\C#\MethodTanimlama\obj\Debug\net6.0\ref\MethodTanimlama.dll
+C:\Users\Mehmet\Desktop\Projects\C#\MethodTanimlama\obj\Debug\net6.0\MethodTanimlama.pdb
+C:\Users\Mehmet\Desktop\Projects\C#\MethodTanimlama\obj\Debug\net6.0\MethodTanimlama.genruntimeconfig.cache
