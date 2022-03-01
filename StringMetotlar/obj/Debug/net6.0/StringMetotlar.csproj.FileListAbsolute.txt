@@ -1,0 +1,15 @@
+C:\Users\Mehmet\Desktop\Projects\C#\StringMetotlar\bin\Debug\net6.0\StringMetotlar.exe
+C:\Users\Mehmet\Desktop\Projects\C#\StringMetotlar\bin\Debug\net6.0\StringMetotlar.deps.json
+C:\Users\Mehmet\Desktop\Projects\C#\StringMetotlar\bin\Debug\net6.0\StringMetotlar.runtimeconfig.json
+C:\Users\Mehmet\Desktop\Projects\C#\StringMetotlar\bin\Debug\net6.0\StringMetotlar.dll
+C:\Users\Mehmet\Desktop\Projects\C#\StringMetotlar\bin\Debug\net6.0\ref\StringMetotlar.dll
+C:\Users\Mehmet\Desktop\Projects\C#\StringMetotlar\bin\Debug\net6.0\StringMetotlar.pdb
+C:\Users\Mehmet\Desktop\Projects\C#\StringMetotlar\obj\Debug\net6.0\StringMetotlar.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\Projects\C#\StringMetotlar\obj\Debug\net6.0\StringMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\Projects\C#\StringMetotlar\obj\Debug\net6.0\StringMetotlar.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\Projects\C#\StringMetotlar\obj\Debug\net6.0\StringMetotlar.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\Projects\C#\StringMetotlar\obj\Debug\net6.0\StringMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Projects\C#\StringMetotlar\obj\Debug\net6.0\StringMetotlar.dll
+C:\Users\Mehmet\Desktop\Projects\C#\StringMetotlar\obj\Debug\net6.0\ref\StringMetotlar.dll
+C:\Users\Mehmet\Desktop\Projects\C#\StringMetotlar\obj\Debug\net6.0\StringMetotlar.pdb
+C:\Users\Mehmet\Desktop\Projects\C#\StringMetotlar\obj\Debug\net6.0\StringMetotlar.genruntimeconfig.cache
