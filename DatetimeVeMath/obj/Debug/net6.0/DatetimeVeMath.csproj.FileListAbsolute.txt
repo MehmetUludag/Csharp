@@ -1,0 +1,15 @@
+C:\Users\Mehmet\Desktop\Projects\C#\DatetimeVeMath\bin\Debug\net6.0\DatetimeVeMath.exe
+C:\Users\Mehmet\Desktop\Projects\C#\DatetimeVeMath\bin\Debug\net6.0\DatetimeVeMath.deps.json
+C:\Users\Mehmet\Desktop\Projects\C#\DatetimeVeMath\bin\Debug\net6.0\DatetimeVeMath.runtimeconfig.json
+C:\Users\Mehmet\Desktop\Projects\C#\DatetimeVeMath\bin\Debug\net6.0\DatetimeVeMath.dll
+C:\Users\Mehmet\Desktop\Projects\C#\DatetimeVeMath\bin\Debug\net6.0\ref\DatetimeVeMath.dll
+C:\Users\Mehmet\Desktop\Projects\C#\DatetimeVeMath\bin\Debug\net6.0\DatetimeVeMath.pdb
+C:\Users\Mehmet\Desktop\Projects\C#\DatetimeVeMath\obj\Debug\net6.0\DatetimeVeMath.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\Projects\C#\DatetimeVeMath\obj\Debug\net6.0\DatetimeVeMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\Projects\C#\DatetimeVeMath\obj\Debug\net6.0\DatetimeVeMath.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\Projects\C#\DatetimeVeMath\obj\Debug\net6.0\DatetimeVeMath.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\Projects\C#\DatetimeVeMath\obj\Debug\net6.0\DatetimeVeMath.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Projects\C#\DatetimeVeMath\obj\Debug\net6.0\DatetimeVeMath.dll
+C:\Users\Mehmet\Desktop\Projects\C#\DatetimeVeMath\obj\Debug\net6.0\ref\DatetimeVeMath.dll
+C:\Users\Mehmet\Desktop\Projects\C#\DatetimeVeMath\obj\Debug\net6.0\DatetimeVeMath.pdb
+C:\Users\Mehmet\Desktop\Projects\C#\DatetimeVeMath\obj\Debug\net6.0\DatetimeVeMath.genruntimeconfig.cache
