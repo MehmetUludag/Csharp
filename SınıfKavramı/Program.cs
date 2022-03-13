@@ -21,12 +21,7 @@
             * Protected
             */
 
-            Calisan calisan1 = new Calisan();
-            calisan1.Ad = "Ayşe";
-            calisan1.Soyad = "Uludağ";
-            calisan1.No = 188;
-            calisan1.Departman = "İnsan Kaynakları";
-
+            Calisan calisan1 = new Calisan("Ayşe","Uludağ",188,"İnsan Kaynakları");
             calisan1.CalisanBilgileri();
 
             Calisan calisan2 = new Calisan();
@@ -36,7 +31,8 @@
             calisan2.Departman = "Satın Alma";
 
             calisan2.CalisanBilgileri();
-
+            Calisan calisan3 = new Calisan("Mehmet","Uludağ");
+            calisan3.CalisanBilgileri();
         }
     }
 
@@ -46,6 +42,22 @@
         public string Soyad;
         public int No;
         public string Departman;
+
+        public Calisan(string ad, string soyad, int no, string departman)
+        {
+            this.Ad = ad;
+            this.Soyad = soyad;
+            this.No = no;
+            this.Departman = departman;
+        }
+
+        public Calisan(string ad, string soyad)
+        {
+            this.Ad = ad;
+            this.Soyad = soyad;
+        }
+
+        public Calisan(){}
 
         public void CalisanBilgileri()
         {
