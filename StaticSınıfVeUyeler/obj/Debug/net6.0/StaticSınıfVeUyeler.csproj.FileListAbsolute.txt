@@ -1,0 +1,15 @@
+C:\Users\Mehmet\Desktop\Projects\C#\StaticSınıfVeUyeler\bin\Debug\net6.0\StaticSınıfVeUyeler.exe
+C:\Users\Mehmet\Desktop\Projects\C#\StaticSınıfVeUyeler\bin\Debug\net6.0\StaticSınıfVeUyeler.deps.json
+C:\Users\Mehmet\Desktop\Projects\C#\StaticSınıfVeUyeler\bin\Debug\net6.0\StaticSınıfVeUyeler.runtimeconfig.json
+C:\Users\Mehmet\Desktop\Projects\C#\StaticSınıfVeUyeler\bin\Debug\net6.0\StaticSınıfVeUyeler.dll
+C:\Users\Mehmet\Desktop\Projects\C#\StaticSınıfVeUyeler\bin\Debug\net6.0\ref\StaticSınıfVeUyeler.dll
+C:\Users\Mehmet\Desktop\Projects\C#\StaticSınıfVeUyeler\bin\Debug\net6.0\StaticSınıfVeUyeler.pdb
+C:\Users\Mehmet\Desktop\Projects\C#\StaticSınıfVeUyeler\obj\Debug\net6.0\StaticSınıfVeUyeler.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\Projects\C#\StaticSınıfVeUyeler\obj\Debug\net6.0\StaticSınıfVeUyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\Projects\C#\StaticSınıfVeUyeler\obj\Debug\net6.0\StaticSınıfVeUyeler.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\Projects\C#\StaticSınıfVeUyeler\obj\Debug\net6.0\StaticSınıfVeUyeler.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\Projects\C#\StaticSınıfVeUyeler\obj\Debug\net6.0\StaticSınıfVeUyeler.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Projects\C#\StaticSınıfVeUyeler\obj\Debug\net6.0\StaticSınıfVeUyeler.dll
+C:\Users\Mehmet\Desktop\Projects\C#\StaticSınıfVeUyeler\obj\Debug\net6.0\ref\StaticSınıfVeUyeler.dll
+C:\Users\Mehmet\Desktop\Projects\C#\StaticSınıfVeUyeler\obj\Debug\net6.0\StaticSınıfVeUyeler.pdb
+C:\Users\Mehmet\Desktop\Projects\C#\StaticSınıfVeUyeler\obj\Debug\net6.0\StaticSınıfVeUyeler.genruntimeconfig.cache
